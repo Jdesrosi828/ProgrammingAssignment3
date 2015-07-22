@@ -41,72 +41,139 @@ Based on the above steps there are three 3 datasets 1) fulldatasub 2) activity 3
 
 ##Variables
 *Activity_Label : label of the activity that each participant/ subject was doing at the time of the measurement
+
 *UniqueID: 1 to 30 each representing a participant in the study
+
 *tBodyAcc_mean_X: Time  BodyAcc mean X Axis
+
 *tBodyAcc_mean_Y: Time  BodyAcc mean Y Axis
+
 *tBodyAcc_mean_Z: Time  BodyAcc mean Z Axis
+
 *tBodyAcc_std_X: Time  BodyAcc std X Axis
+
 *tBodyAcc_std_Y: Time  BodyAcc std Y Axis
+
 *tBodyAcc_std_Z: Time  BodyAcc std Z Axis
+
 *tGravityAcc_mean_X: Time  GravityAcc mean X Axis
+
 *tGravityAcc_mean_Y: Time  GravityAcc mean Y Axis
+
 *tGravityAcc_mean_Z: Time  GravityAcc mean Z Axis
+
 *tGravityAcc_std_X: Time  GravityAcc std X Axis
+
 *tGravityAcc_std_Y: Time  GravityAcc std Y Axis
+
 *tGravityAcc_std_Z: Time  GravityAcc std Z Axis
+
 *tBodyAccJerk_mean_X: Time  BodyAccJerk mean X Axis
+
 *tBodyAccJerk_mean_Y: Time  BodyAccJerk mean Y Axis
+
 *tBodyAccJerk_mean_Z: Time  BodyAccJerk mean Z Axis
+
 *tBodyAccJerk_std_X: Time  BodyAccJerk std X Axis
+
 *tBodyAccJerk_std_Y: Time  BodyAccJerk std Y Axis
+
 *tBodyAccJerk_std_Z: Time  BodyAccJerk std Z Axis
+
 *tBodyGyro_mean_X: Time  BodyGyro mean X Axis
+
 *tBodyGyro_mean_Y: Time  BodyGyro mean Y Axis
+
 *tBodyGyro_mean_Z: Time  BodyGyro mean Z Axis
+
 *tBodyGyro_std_X: Time  BodyGyro std X Axis
+
 *tBodyGyro_std_Y: Time  BodyGyro std Y Axis
+
 *tBodyGyro_std_Z: Time  BodyGyro std Z Axis
+
 *tBodyGyroJerk_mean_X: Time  BodyGyroJerk mean X Axis
+
 *tBodyGyroJerk_mean_Y: Time  BodyGyroJerk mean Y Axis
+
 *tBodyGyroJerk_mean_Z: Time  BodyGyroJerk mean Z Axis
+
 *tBodyGyroJerk_std_X: Time  BodyGyroJerk std X Axis
+
 *tBodyGyroJerk_std_Y: Time  BodyGyroJerk std Y Axis
+
 *tBodyGyroJerk_std_Z: Time  BodyGyroJerk std Z Axis
+
 *tBodyAccMag_mean: Time  BodyAccMag mean
+
 *tBodyAccMag_std: Time  BodyAccMag std
+
 *tGravityAccMag_mean: Time  GravityAccMag mean
+
 *tGravityAccMag_std: Time  GravityAccMag std
+
 *tBodyAccJerkMag_mean: Time  BodyAccJerkMag mean
+
 *tBodyAccJerkMag_std: Time  BodyAccJerkMag std
+
 *tBodyGyroMag_mean: Time  BodyGyroMag mean
+
 *tBodyGyroMag_std: Time  BodyGyroMag std
+
 *tBodyGyroJerkMag_mean: Time  BodyGyroJerkMag mean
+
 *tBodyGyroJerkMag_std: Time  BodyGyroJerkMag std
+
 *fBodyAcc_mean_X: Frequency  BodyAcc mean X Axis
+
 *fBodyAcc_mean_Y: Frequency  BodyAcc mean Y Axis
+
 *fBodyAcc_mean_Z: Frequency  BodyAcc mean Z Axis
+
 *fBodyAcc_std_X: Frequency  BodyAcc std X Axis
+
 *fBodyAcc_std_Y: Frequency  BodyAcc std Y Axis
+
 *fBodyAcc_std_Z: Frequency  BodyAcc std Z Axis
+
 *fBodyAccJerk_mean_X: Frequency  BodyAccJerk mean X Axis
+
 *fBodyAccJerk_mean_Y: Frequency  BodyAccJerk mean Y Axis
+
 *fBodyAccJerk_mean_Z: Frequency  BodyAccJerk mean Z Axis
+
 *fBodyAccJerk_std_X: Frequency  BodyAccJerk std X Axis
+
 *fBodyAccJerk_std_Y: Frequency  BodyAccJerk std Y Axis
+
 *fBodyAccJerk_std_Z: Frequency  BodyAccJerk std Z Axis
+
 *fBodyGyro_mean_X: Frequency  BodyGyro mean X Axis
+
 *fBodyGyro_mean_Y: Frequency  BodyGyro mean Y Axis
+
 *fBodyGyro_mean_Z: Frequency  BodyGyro mean Z Axis
+
 *fBodyGyro_std_X: Frequency  BodyGyro std X Axis
+
 *fBodyGyro_std_Y: Frequency  BodyGyro std Y Axis
+
 *fBodyGyro_std_Z: Frequency  BodyGyro std Z Axis
+
 *fBodyAccMag_mean: Frequency  BodyAccMag mean
+
 *fBodyAccMag_std: Frequency  BodyAccMag std
+
 *fBodyBodyAccJerkMag_mean: Frequency  BodyBodyAccJerkMag mean
+
 *fBodyBodyAccJerkMag_std: Frequency  BodyBodyAccJerkMag std
+
 *fBodyBodyGyroMag_mean: Frequency  BodyBodyGyroMag mean
+
 *fBodyBodyGyroMag_std: Frequency  BodyBodyGyroMag std
+
 *fBodyBodyGyroJerkMag_mean: Frequency  BodyBodyGyroJerkMag mean
+
 *fBodyBodyGyroJerkMag_std: Frequency  BodyBodyGyroJerkMag std
 
 
